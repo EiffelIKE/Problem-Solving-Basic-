@@ -1,2 +1,2 @@
 # Problem 1:
-![Problem 1 img](./Problem 1.png)
+![Problem1img](./Problem 1.png)
